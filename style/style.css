@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: #757575;
+}
+header a {
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+}
+.logo {
+    font-size: 25px;
+    padding-top: 5px;
+}
+
